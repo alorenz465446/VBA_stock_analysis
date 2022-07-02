@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This analysis will show results for 12 "green stocks". The data will be analyzed by using VBA and Excel. The analysis will provide Total Daily Volume and the Return on these stocks in a given year. The stakeholder is also interested in seeing if runtime of the code can be decreased with refractoring. I will take the old code and add some refactoring to help the runtime of the program. 
+This analysis will show results for 12 "green stocks". The data will be analyzed by using VBA and Excel. The analysis will provide Total Daily Volume and the Return on these stocks in a given year. The stakeholder is also interested in seeing if runtime of the code can be decreased with refactoring. I will take the old code and add some refactoring to help the runtime of the program. 
 
 
 ## Results
@@ -20,7 +20,7 @@ By taking the initial runtime and subtracting the refactored runtime, we see tha
 
 # Summary
 
-## Refractoring : taking old code and replacing it with more efficient code 
+## Refactoring : taking old code and replacing it with more efficient code 
 
 ### General Pros and Cons
 * You are able to make a more efficient piece of work.
@@ -31,10 +31,10 @@ By taking the initial runtime and subtracting the refactored runtime, we see tha
 
 * The code can be a lot smoother to read.
 
-*  Refractoring the code can be very time consuming.
+*  Refactoring the code can be very time consuming.
 
 
 
 
 
-[Code Refactoring: Concept and Analysis] (https://anarsolutions.com/code-refactoring-concept-analysis/#:~:text=Maintainability%3A%20After%20refactoring%2C%20the%20code,no%20idea%20where%20to%20go)
+[Code Refactoring: Concept and Analysis]
