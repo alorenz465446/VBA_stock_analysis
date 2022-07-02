@@ -25,16 +25,15 @@ By taking the initial runtime and subtracting the refactored runtime, we see tha
 ### General Pros and Cons
 * You are able to make a more efficient piece of work.
 
-* But, you can also create new problems in already working code
+* Creating new problems in already working code can happen
 
 ### VBA Script Related Pros and Cons
 
 * The code can be a lot smoother to read.
 
-*  Refactoring the code can be very time consuming.
+* Refactoring the code can be very time consuming.
 
 
 
 
 
-[Code Refactoring: Concept and Analysis]
