@@ -9,9 +9,9 @@ This analysis will show results for 12 "green stocks". The data will be analyzed
 
 The initial analysis showed a runtime of nearly two seconds. The refactored code ran significantly faster than the intial. Below are images of the results:
 
-![initial code runtime] (Initial_analysis_2018.png) = Picture
+! [Initial code runtime] (Initial_analysis_2018.png) = Picture
 
-![refactored code runtime] (Refactored_analysis_2018.png) = Picture
+! [Refactored code runtime] (Refactored_analysis_2018.png) = Picture
 
 
 1.8125 - 0.2451172 = 1.5673828 
